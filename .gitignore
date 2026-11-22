@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Generated files
+dist/
+coverage/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Future Python backend
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
