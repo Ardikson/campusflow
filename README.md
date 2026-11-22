@@ -3,6 +3,9 @@
 A responsive dormitory request-management demo built with
 React, TypeScript, and CSS.
 
+## Live Demo
+
+[Open CampusFlow](https://ardikson.github.io/campusflow/)
 ## Features
 
 - Dashboard with request statistics
